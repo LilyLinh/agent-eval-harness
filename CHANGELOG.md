@@ -1,3 +1,11 @@
+## [1.49.2](https://github.com/opendatahub-io/agent-eval-harness/compare/v1.49.1...v1.49.2) (2026-09-22)
+
+
+### Bug Fixes
+
+* **eval-analyze:** address review — scope stdout-only rule to output judges, clarify bare {{ outputs }} ([fa851b9](https://github.com/opendatahub-io/agent-eval-harness/commit/fa851b9c9f5fd1a321119c7b70f91c39c3542fda))
+* **eval-analyze:** detect stdout-only skills and use {{ conversation }} in judge prompts ([c71d684](https://github.com/opendatahub-io/agent-eval-harness/commit/c71d6844cae0f97da5e94389356cd4546a5281e1))
+
 ## [1.49.1](https://github.com/opendatahub-io/agent-eval-harness/compare/v1.49.0...v1.49.1) (2026-09-15)
 
 
